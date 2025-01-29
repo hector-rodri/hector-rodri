@@ -1,6 +1,5 @@
 ## Hola soy Héctor 👋
 
-<!--# 💫 About Me:
 📚 Actualmente, estudiante de un Grado Superior de Desarrollo de Aplicaciones Multiplataforma en CIDE, Palma de Mallorca, España<br>🧔🏻 Edad: 19 años<br>🚀 Interesado en tecnologías emergentes, inteligencia artificial, cloud computing, ciberseguridad...<br>
 
 
@@ -11,5 +10,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hector-rodri&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
