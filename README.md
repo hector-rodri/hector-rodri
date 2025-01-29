@@ -4,14 +4,12 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswdmpmeGo1M2tweTFrb2NwaXJsM2h5MDNwMjI3M3NrcjdhZHZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif">
 </p>
 
----
 
 📚 Sobre mí:
 - 🎓 Actualmente, estudiante de un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en **CIDE, Palma de Mallorca, España**.
 - 🧔🏻 **Edad:** 19 años.
 - 🚀 Apasionado por **tecnologías emergentes**, **inteligencia artificial**, **cloud computing** y **ciberseguridad**.
 
----
 
 💻 Tech Stack:
 <p align="center">
@@ -25,7 +23,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
----
 
 📊 GitHub Stats:
 <p align="center">
@@ -36,5 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
----
 
