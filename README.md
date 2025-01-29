@@ -11,6 +11,7 @@
 - 🚀 Apasionado por **tecnologías emergentes**, **inteligencia artificial**, **cloud computing** y **ciberseguridad**.
 
 
+<br/>
 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-
+<br/>
 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
