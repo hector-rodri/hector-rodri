@@ -1,19 +1,19 @@
 ## Hola, soy Héctor 👋
 
 <p align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswdmpmeGo1M2tweTFrb2NwaXJsM2h5MDNwMjI3M3NrcjdhZHZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif">
+  <img align="right" height="200" width="300" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswdmpmeGo1M2tweTFrb2NwaXJsM2h5MDNwMjI3M3NrcjdhZHZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif">
 </p>
 
 ---
 
-### 📚 Sobre mí:
+📚 Sobre mí:
 - 🎓 Actualmente, estudiante de un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en **CIDE, Palma de Mallorca, España**.
 - 🧔🏻 **Edad:** 19 años.
 - 🚀 Apasionado por **tecnologías emergentes**, **inteligencia artificial**, **cloud computing** y **ciberseguridad**.
 
 ---
 
-### 💻 Tech Stack:
+💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
