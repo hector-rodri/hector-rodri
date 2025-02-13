@@ -25,7 +25,9 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
-
+<br/>
+<br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 
 
