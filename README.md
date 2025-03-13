@@ -7,8 +7,7 @@
 
 📚 Sobre mí:
 - 🎓 Actualmente, estudiante de un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en **CIDE, Palma de Mallorca, España**.
-- 🧔🏻 **Edad:** 19 años.
-- 🚀 Apasionado por **tecnologías emergentes**, **inteligencia artificial**, **cloud computing** y **ciberseguridad**.
+- 🧔🏻 **Edad:** 20 años.
 
 
 <br/>
