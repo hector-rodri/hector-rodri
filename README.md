@@ -5,33 +5,28 @@
 </p>
 
 
-📚 Sobre mí:
-- 🎓 Actualmente, estudiante de un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en **CIDE, Palma de Mallorca, España**.
-- 🧔🏻 **Edad:** 20 años.
+  📚 **Sobre mí:**  
+  - 🎓 Actualmente, estudiante de un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** en **CIDE, Palma de Mallorca, España**.  
+  - 🧔🏻 **Edad:** 20 años.
 
 
-<br/>
-<br/>
-<br/>
-💻 Tech Stack:
-<br/>
-<br/>
+<br/><br/><br/>
+
+### 💻 **Tech Stack**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://img.icons8.com/fluency/48/sql.png" width="48" title=".sql file" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://www.kauffmann.nl/wp-content/uploads/2019/10/AL_ext_logo.png" width="50" />
 </p>
+
 <br/>
-<br/>
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-
-
-
-
-
