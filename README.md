@@ -24,9 +24,3 @@
   <img src="https://www.kauffmann.nl/wp-content/uploads/2019/10/AL_ext_logo.png" width="50" />
 </p>
 
-<br/>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-rodri&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
