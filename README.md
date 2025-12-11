@@ -1,6 +1,6 @@
 ## Hola, soy Héctor 🫡
 
-- Actualmente, estudiante de un **Grado Superior DAM** en **CIDE, Palma de Mallorca, España**.  
+- Actualmente, estudiante de **Grado Superior DAM**
 - **Edad:** 20 años.
 
 ### <p align="center">Technologies & Tools</p>
