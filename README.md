@@ -1,7 +1,7 @@
 ## Hola, soy Héctor 🫡
 
 - Actualmente, estudiante de **Grado Superior DAM**
-- **Edad:** 20 años.
+- **Edad:** 21 años.
 
 ### <p align="center">Technologies & Tools</p>
 
