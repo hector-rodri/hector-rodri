@@ -1,6 +1,7 @@
 ## Hola, soy Héctor 🫡
 
-- Actualmente, estudiante de **Grado Superior DAM**
+- **Junior Developer en Dynasoft**, trabajando en la implementación de soluciones en AL para **Dynamics 365 Business Central**.
+- Titulado en **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** (DAM)
 - **Edad:** 21 años.
 
 ### <p align="center">Technologies & Tools</p>
